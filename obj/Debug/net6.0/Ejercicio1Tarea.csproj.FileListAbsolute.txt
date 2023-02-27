@@ -1,0 +1,15 @@
+C:\Users\Lisandro\Documents\Lenguajes de Interfaz\Ejercicio1Tarea\Ejercicio1Tarea\bin\Debug\net6.0\Ejercicio1Tarea.exe
+C:\Users\Lisandro\Documents\Lenguajes de Interfaz\Ejercicio1Tarea\Ejercicio1Tarea\bin\Debug\net6.0\Ejercicio1Tarea.deps.json
+C:\Users\Lisandro\Documents\Lenguajes de Interfaz\Ejercicio1Tarea\Ejercicio1Tarea\bin\Debug\net6.0\Ejercicio1Tarea.runtimeconfig.json
+C:\Users\Lisandro\Documents\Lenguajes de Interfaz\Ejercicio1Tarea\Ejercicio1Tarea\bin\Debug\net6.0\Ejercicio1Tarea.dll
+C:\Users\Lisandro\Documents\Lenguajes de Interfaz\Ejercicio1Tarea\Ejercicio1Tarea\bin\Debug\net6.0\Ejercicio1Tarea.pdb
+C:\Users\Lisandro\Documents\Lenguajes de Interfaz\Ejercicio1Tarea\Ejercicio1Tarea\obj\Debug\net6.0\Ejercicio1Tarea.csproj.AssemblyReference.cache
+C:\Users\Lisandro\Documents\Lenguajes de Interfaz\Ejercicio1Tarea\Ejercicio1Tarea\obj\Debug\net6.0\Ejercicio1Tarea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lisandro\Documents\Lenguajes de Interfaz\Ejercicio1Tarea\Ejercicio1Tarea\obj\Debug\net6.0\Ejercicio1Tarea.AssemblyInfoInputs.cache
+C:\Users\Lisandro\Documents\Lenguajes de Interfaz\Ejercicio1Tarea\Ejercicio1Tarea\obj\Debug\net6.0\Ejercicio1Tarea.AssemblyInfo.cs
+C:\Users\Lisandro\Documents\Lenguajes de Interfaz\Ejercicio1Tarea\Ejercicio1Tarea\obj\Debug\net6.0\Ejercicio1Tarea.csproj.CoreCompileInputs.cache
+C:\Users\Lisandro\Documents\Lenguajes de Interfaz\Ejercicio1Tarea\Ejercicio1Tarea\obj\Debug\net6.0\Ejercicio1Tarea.dll
+C:\Users\Lisandro\Documents\Lenguajes de Interfaz\Ejercicio1Tarea\Ejercicio1Tarea\obj\Debug\net6.0\refint\Ejercicio1Tarea.dll
+C:\Users\Lisandro\Documents\Lenguajes de Interfaz\Ejercicio1Tarea\Ejercicio1Tarea\obj\Debug\net6.0\Ejercicio1Tarea.pdb
+C:\Users\Lisandro\Documents\Lenguajes de Interfaz\Ejercicio1Tarea\Ejercicio1Tarea\obj\Debug\net6.0\Ejercicio1Tarea.genruntimeconfig.cache
+C:\Users\Lisandro\Documents\Lenguajes de Interfaz\Ejercicio1Tarea\Ejercicio1Tarea\obj\Debug\net6.0\ref\Ejercicio1Tarea.dll
